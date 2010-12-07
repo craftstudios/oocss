@@ -3,3 +3,6 @@
 @import url("tabs/tabs.css");
 @import url("talk/talk.css");
 @import url("talk/talk_skins.css");
+
+@import url("horizontalnav/horizontalnav.css");
+@import url("horizontalnav/horizontalnav_skins.css");

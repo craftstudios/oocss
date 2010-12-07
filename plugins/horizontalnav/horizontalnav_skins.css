@@ -1,0 +1,24 @@
+@import url("skins/modern/modern.css");
+
+/* Simple skin */
+
+.nav.simple {
+	background: #2DA5E3;
+	height: 50px;
+	margin: 0 0 30px 0;
+}
+	.nav.simple li {
+		background: #2DA5E3;
+		border-right: 1px solid #103352;
+	}
+	.nav.simple li:hover {
+		background: #74C1ED;
+	}
+		.nav.simple li a {
+			font-size: 1.23em; /* 16px */
+			padding: 15px 15px;
+			color: #fff;
+		}
+		.nav.simple li.current a, .nav.simple li.section a {
+			background: #1E6DA2;
+		}
